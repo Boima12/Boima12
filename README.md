@@ -1,6 +1,13 @@
-Hello, I'm Cao Hoang Phuoc Bao (Boima/Boima12), also I'm cool
+### Hello, I'm Cao Hoang Phuoc Bao (Boima/Boima12), also I'm cool
+## h
+# h
+h
+<!--- 
+add your interests, skills, hobbies, or a fun fact about yourself.
+---!>
 
-<!---
-Boima12/Boima12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+interests : Game, Developing, Music, Food, Plants.
+skills : Music, Coding.
+hobbies : Travelling, Cooking, Musician.
+
+U+1F47E

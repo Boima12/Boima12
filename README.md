@@ -11,3 +11,7 @@ skills : Music, Coding.
 hobbies : Travelling, Cooking, Musician.
 
 U+1F47E
+
+<picture>
+  <img alt="Hello :3" src="https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+</picture>

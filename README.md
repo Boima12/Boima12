@@ -10,7 +10,7 @@ interests : Game, Developing, Music, Food, Plants.
 skills : Music, Coding.
 hobbies : Travelling, Cooking, Musician.
 
-U+1F47E
+😊
 
 
 <!--- image/picture --->

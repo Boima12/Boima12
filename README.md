@@ -7,11 +7,11 @@ About me
 <details>
   <summary>  </summary>
   
-  - My name is Cao Hoang Phuoc Bao, was born in 2005 in a lovely small town at Thua Thien Hue, Vietnam.    
+  - My name is Cao Hoang Phuoc Bao, born in 2005 in a lovely small town in Thua Thien Hue, Vietnam.  
   
-  - I am currently studying at VKU University. A place where people united together working toward their dreams, and bring magics from imagination to real life.
+  - I am currently studying at VKU University. A place where people united together, working toward their dreams, and bring magic from imagination to real life.
 
-  - if there are words that express myself, it would be:  Extraverted, Enthusiastic, Intuitive, Decisively, and sometime can be a little Over-Emotional-ist 😉
+  - If there are words that express myself, they would be:  Extraverted, Enthusiastic, Intuitive, Decisive, and sometimes a little Over-Emotional_ist. 😉
 
   - Dog Lover.
   <picture>

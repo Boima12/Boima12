@@ -5,7 +5,7 @@ Greeting, I'm Cao Hoang Phuoc Bao (Boima)
 About me 
 ---
 <details>
-  <summary>  </summary>
+  <summary> <-- click here :3 </summary>
   
   - My name is Cao Hoang Phuoc Bao, born in 2005 in a lovely small town in Thua Thien Hue, Vietnam.  
   

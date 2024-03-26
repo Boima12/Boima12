@@ -11,7 +11,7 @@ About me
   
   - I am currently studying at VKU University. A place where people united together, working toward their dreams, and bring magic from imagination to real life.
 
-  - If there are words that express myself, they would be:  Extraverted, Enthusiastic, Intuitive, Decisive, and sometimes a little Over-Emotional_ist. 😉
+  - If there are words that express myself, they would be: Enthusiastic, Intuitive, Decisive, and sometimes a little Over-Emotional_ist. 😉
 
   - Dog Lover.
   <picture>

@@ -15,13 +15,8 @@ About me
   </picture>
 </details>
 
-
-
-Collection of projects that i involve
 ---
 
-
-### Java
-- [2D_Farming](https://github.com/Boima12/2D_Farming.git)
+[Collection of projects that i involve](https://boima12.github.io/)
 
 

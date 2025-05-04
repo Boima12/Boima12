@@ -13,6 +13,10 @@ About me
   <picture>
     <img alt="Hello :3" src="https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
   </picture>
+
+  ---
+
+  <img alt="04/05/2025 (DD/MM/YYYY)" src="https://github.com/Boima12/AndroidStudio_ZxingQR/blob/main/peak%20Github.png">
 </details>
 
 ---
